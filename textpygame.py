@@ -3,7 +3,7 @@ import random
 
 pygame.init()
 
-screen = pygame.display.set_mode((800, 600))
+screen = pygame.display.set_mode((1000, 800))
 pygame.display.set_caption("Ballon Game DX")
 
 BLUE= (173, 216, 230)
